@@ -1,0 +1,4 @@
+source_project: KAN
+target_project: KAN
+sync_attachments: true
+db_path: data/mapping.sqlite
